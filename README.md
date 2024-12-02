@@ -1,6 +1,6 @@
 # UniShell
 
-UniShell is a POSIX-like shell program developed as part of an academic project for Operating Systems I. It implements fundamental shell features such as command parsing, I/O redirection, process and job control, and signal handling, offering a deeper understanding of system-level programming in Unix-like environments.
+UniShell is a POSIX-like shell program witten in C developed as part of an academic project for an Operating Systems course. It implements fundamental shell features such as command parsing, I/O redirection, process and job control, and signal handling, offering a deeper understanding of system-level programming in Unix-like environments.
 
 ## Features
 
